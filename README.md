@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PhinM1
+- 👀 I’m interested in stuff
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on = False
+- 📫 How to reach me: Don't
